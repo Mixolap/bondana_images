@@ -1,8 +1,8 @@
 # Изображения к инструментам торговли от Тинькофф
 
 - типы инструментов 
-  - акции stocks
-  - облигации bonds
+  - акции **stocks**
+  - облигации **bonds**
 
 формат https://raw.githubusercontent.com/Mixolap/bondana_images/main/ТИП_ИНСТРУМЕНТА/ФИГИ_ИНСТРУМЕНТА.png
 
