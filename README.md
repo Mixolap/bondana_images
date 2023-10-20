@@ -3,6 +3,9 @@
 - Типы инструментов: 
   - акции **stocks**
   - облигации **bonds**
+  - фонды **etfs**
+  - валюта **currencies**
+  - фьючерсы **futures**
 
 формат https://raw.githubusercontent.com/Mixolap/bondana_images/main/ТИП_ИНСТРУМЕНТА/ФИГИ_ИНСТРУМЕНТА.png
 
